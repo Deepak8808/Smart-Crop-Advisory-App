@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+venv
+__pycache__
+*.pyc
+data
+models
+.env
+.vscode
+>>>>>>> 2d4aec61400198d90e7ffce16c394244085644a2
